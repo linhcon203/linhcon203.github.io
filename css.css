@@ -1,0 +1,507 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    height: 100%;
+    background: #ffffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.wrapper {
+    width: 100%;
+    margin: auto;
+}
+
+.logo {
+    height: 100px;
+    background: #ffffff;
+    text-align: center;
+}
+
+.logo img {
+    width: 12%;
+}
+
+.menu {
+    height: 52px;
+    background: rgb(37, 35, 35);
+    text-align: center;
+}
+
+.menu ul li {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    text-align: center;
+    display: inline;
+}
+
+.menu li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.menu li a:hover {
+    background-color: gray;
+    height: 100%;
+}
+
+.ii div {
+    background-color: rgb(185, 97, 56);
+
+}
+
+.ii marquee h3 i {
+    width: 100%;
+    height: 100%;
+}
+
+.banner {
+    height: 255px;
+}
+
+.banner img {
+    width: 100%;
+    height: 45vh;
+}
+
+.content {
+    height: 985px;
+    background: #ffffff;
+    text-align: center;
+}
+
+.linh {
+    width: 100%;
+    height: 100px;
+    line-height: 65px;
+}
+
+.linh1 p {
+    width: 100%;
+    height: 100px;
+    line-height: 65px;
+}
+
+.linh p {
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.linh2 {
+    text-align: center;
+    color: red;
+}
+
+.sp1 {
+    border: 8.5px solid #cccccc;
+    text-align: center;
+    float: left;
+    margin-right: 15px;
+}
+
+.sp3 {
+    text-align: center;
+    float: left;
+    margin-right: 15px;
+    height: 61.5vh;
+    border: 8.5px solid #cccccc;
+}
+
+.sp3 img {
+    width: 300px;
+    height: 300px;
+}
+
+.sp1 img {
+    width: 305px;
+    height: 300px;
+}
+
+.tensp a {
+    text-decoration: noneco;
+    color: rgb(26, 26, 97);
+    font-size: 19px;
+    font-weight: bold;
+}
+
+.tensp {
+    margin-bottom: 15px;
+}
+
+.giagoc {
+    color: #262324;
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: line-through;
+}
+
+.giamoi {
+    color: red;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.footer {
+    width: 100%;
+    height: 250px;
+    background-color: gray;
+    text-align: center;
+}
+
+.hh div h4 {
+    width: 100%;
+    height: 25px;
+    background-color: yellow;
+    text-align: center;
+}
+
+.rr div h4 {
+    width: 100%;
+    height: 23px;
+    background-color: rgb(92, 92, 247);
+    text-align: center;
+}
+
+.tt div h4 {
+    width: 100%;
+    height: 25px;
+    text-align: center;
+    background-color: rgb(231, 20, 20);
+}
+
+.ee div h4 {
+    width: 100%;
+    height: 25px;
+    background-color: yellowgreen;
+    text-align: center;
+}
+
+.box1all {
+    width: 1015px;
+    height: 115vh;
+    float: left;
+    border: 2.5px solid #ffffff;
+
+}
+
+.box1allleft {
+    width: 500px;
+    height: 57vh;
+    float: left;
+    border: 2.5px solid #ffffff;
+}
+
+.box1allright {
+    width: 500px;
+    height: 57vh;
+    float: left;
+    border: 2.5px solid #ffffff;
+}
+
+.box1alltop {
+    width: 500px;
+    height: 57vh;
+    float: left;
+    border: 2.5px solid #ffffff;
+}
+
+.box1allphai {
+    width: 500px;
+    height: 57vh;
+    float: left;
+    border: 2.5px solid #ffffff;
+}
+
+.box2all {
+    width: 320px;
+    height: 115vh;
+    float: left;
+    border: 2.5px solid #ffffff;
+}
+
+.box2allleft {
+    width: 315px;
+    height: 10vh;
+    float: left;
+    border: 2.5px solid #ffffff;
+    text-align: center;
+}
+
+.box2allleft video {
+    width: 100%;
+    height: 30vh;
+}
+
+.box2allleft source {
+    width: 100%;
+    height: 50vh;
+}
+
+.box2allleft img {
+    width: 100%;
+    height: 75vh;
+}
+
+.box3all {
+    width: 100%;
+    height: 39vh;
+    float: left;
+}
+
+.sp2 {
+    border-radius: 10px;
+    text-align: center;
+    margin-right: 20px;
+}
+
+.sp2 img {
+    width: 250px;
+    height: 42vh;
+    text-align: center;
+}
+
+.trai {
+    width: 295px;
+    height: 120vh;
+    float: left;
+    border: 2.5px solid #ffffff;
+}
+
+.trai img {
+    width: 100%;
+    height: 100%;
+}
+
+.all {
+    width: 750px;
+    height: 120vh;
+    float: left;
+    border: 2.5px solid #ffffff;
+}
+
+.phai {
+    width: 300px;
+    height: 120vh;
+    float: left;
+    border: 2.5px solid #ffffff;
+}
+
+.phai img {
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.phai-1 {
+    width: 375px;
+    height: 60vh;
+    float: left;
+    border: 2.5px solid #ffffff;
+}
+
+.phai-2 {
+    width: 370px;
+    height: 60vh;
+    float: left;
+    border: 2.5px solid #ffffff;
+}
+
+.phai-3 {
+    width: 375px;
+    height: 60vh;
+    float: left;
+    border: 2.5px solid #ffffff;
+}
+
+.phai-4 {
+    width: 370px;
+    height: 60vh;
+    float: left;
+    border: 2.5px solid #ffffff;
+}
+
+.duoi {
+    width: 100%;
+    height: 70vh;
+    float: left;
+    border: 2.5px solid #ffffff;
+}
+
+.duoi video {
+    width: 100%;
+    height: 98%;
+    background-image: url('../Ass.html/img/d5_khyjueaavq7h_1.jpg');
+    background-size: cover;
+}
+
+.duoi source {
+    width: 100%;
+    height: 100%;
+}
+
+.box3all1 {
+    width: 100%;
+    height: 38vh;
+    float: left;
+    border: 2.5px solid #ffffff;
+}
+
+.nguyen {
+    width: 100%;
+    height: 60vh;
+    float: left;
+    border: 2.5px solid #ffffff;
+}
+
+.nguyen video {
+    width: 100%;
+    height: 100%;
+    background-image: url('../Ass.html/img/tang-hap-cac-hanh-anh-lam-hanh-na_n-mau-aa_-aap-nhayt-48.jpg');
+    background-size: cover;
+}
+
+.nguyen source {
+    width: 100%;
+    height: 100%;
+}
+
+.khanh {
+    width: 100%;
+    height: 70vh;
+    float: left;
+    border: 2.5px solid #ffffff;
+}
+
+.khanh1 {
+    width: 336px;
+    height: 70vh;
+    float: left;
+    border: 2.5px solid #ffffff;
+}
+
+.khanh2 {
+    width: 336px;
+    height: 70vh;
+    float: left;
+    border: 2.5px solid #ffffff;
+}
+
+.khanh3 {
+    width: 336px;
+    height: 70vh;
+    float: left;
+    border: 2.5px solid #ffffff;
+}
+
+.khanh4 {
+    width: 336px;
+    height: 70vh;
+    float: left;
+    border: 2.5px solid #ffffff;
+}
+
+.nkl {
+    width: 100%;
+    height: 60vh;
+    float: left;
+    border: 2.5px solid #ffffff;
+}
+
+.nkl img {
+    width: 100%;
+    height: 100%;
+}
+
+.sp4 {
+    border-radius: 10px;
+    text-align: center;
+    margin-right: 20px;
+    padding: 10px 0px;
+}
+
+.sp4 img {
+    padding: 10px 0px;
+    width: 255px;
+    height: 43vh;
+    text-align: center;
+}
+.nguyen1{
+    width: 100%;
+    height: 50vh;
+    text-align: center;
+    border: 2.5px solid #ffffff;
+}
+.nguyen1 img{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    border: 2px solid #ffffff;
+   
+}
+.nguyen2{
+    width: 100%;
+    height: 70vh;
+    float: left;
+    border: 2.5px solid #ffffff;
+}
+.nguyen2 video{
+    background-image: url('../Ass.html/img/phonggreen.jpg');
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+.nguyen2 source{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+.nguyen3{
+    width: 100%;
+    height: 66vh;
+    float: left;
+    border: 2.5px solid #ffffff;
+}
+.linh24{
+    width: 450px;
+    height: 65vh;
+    float: left;
+    border: 2.5px solid #ffffff;
+}
+.linh06{
+    width: 450px;
+    height: 65vh;
+    float: left;
+    border: 2.5px solid #ffffff;
+}
+.linh03{
+    width: 444px;
+    height: 65vh;
+    float: left;
+    border: 2.5px solid #ffffff;
+}
+.sp5 {
+    border-radius: 10px;
+    text-align: center;
+    margin-right: 20px;
+    padding: 10px 0px;
+}
+
+.sp5 img {
+    padding: 10px 0px;
+    width: 300px;
+    height: 45vh;
+    text-align: center;
+}
