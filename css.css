@@ -342,7 +342,7 @@ body {
 .duoi video {
     width: 100%;
     height: 98%;
-    background-image: url('../Ass.html/img/d5_khyjueaavq7h_1.jpg');
+    background-image: url('/img/d5_khyjueaavq7h_1.jpg');
     background-size: cover;
 }
 
@@ -368,7 +368,7 @@ body {
 .nguyen video {
     width: 100%;
     height: 100%;
-    background-image: url('../Ass.html/img/tang-hap-cac-hanh-anh-lam-hanh-na_n-mau-aa_-aap-nhayt-48.jpg');
+    background-image: url('/img/tang-hap-cac-hanh-anh-lam-hanh-na_n-mau-aa_-aap-nhayt-48.jpg');
     background-size: cover;
 }
 
@@ -457,7 +457,7 @@ body {
     border: 2.5px solid #ffffff;
 }
 .nguyen2 video{
-    background-image: url('../Ass.html/img/phonggreen.jpg');
+    background-image: url('/img/phonggreen.jpg');
     background-size: cover;
     width: 100%;
     height: 100%;
